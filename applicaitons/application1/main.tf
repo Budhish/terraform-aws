@@ -1,4 +1,4 @@
-#add
+#adding parameter in the main.tf budhsih madana budhish
 module "my-s3" {
   source = "/root/terraform/modules/s3"
   bucketname = "budhish-madana-sample-bucket"
